@@ -1,0 +1,11 @@
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\bin\Debug\KnopLauncher.exe.config
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\bin\Debug\KnopLauncher.exe
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\bin\Debug\KnopLauncher.pdb
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.Form1.resources
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.Properties.Resources.resources
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.exe
+C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\obj\Debug\KnopLauncher.pdb

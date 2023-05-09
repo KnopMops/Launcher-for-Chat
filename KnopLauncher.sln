@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnopLauncher", "KnopLauncher\KnopLauncher.csproj", "{F4913583-6587-48E1-ABFB-D4DB38FB95B5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KnopLauncherSetup", "KnopLauncherSetup\KnopLauncherSetup.vdproj", "{452626E5-EF79-4B37-8F80-C8DC46C97517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4913583-6587-48E1-ABFB-D4DB38FB95B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4913583-6587-48E1-ABFB-D4DB38FB95B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4913583-6587-48E1-ABFB-D4DB38FB95B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4913583-6587-48E1-ABFB-D4DB38FB95B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452626E5-EF79-4B37-8F80-C8DC46C97517}.Debug|Any CPU.ActiveCfg = Debug
+		{452626E5-EF79-4B37-8F80-C8DC46C97517}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADA0AD2-4ACE-4573-A6A7-0E94F2BF4FCC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+"C:\Users\Andre\source\repos\KnopLauncher\KnopLauncher\bin\Debug\wcf_chat\ChatHost\bin\Debug\ChatHost.exe"
